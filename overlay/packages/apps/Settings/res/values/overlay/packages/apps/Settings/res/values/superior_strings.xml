@@ -12,6 +12,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Maintainer Summary -->
-    <string name="SpOS_maintainer_summary" translatable="false">tejas101k</string>
-    <string name="SpOS_maintainer_url" translatable="false">https://paypal.me/tejas101k</string>
-</resources>
+    <string name="SpOS_maintainer_summary" translatable="false">Spectre</string>
+   </resources>
